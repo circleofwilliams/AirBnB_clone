@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Unittest for state.py
+Unittest for amenity.py
 """
 import unittest
 from models.state import State

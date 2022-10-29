@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Unittest for place.py
+Unittest for amenity.py
 """
 import unittest
 from models.place import Place
