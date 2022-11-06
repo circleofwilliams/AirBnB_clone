@@ -1,6 +1,6 @@
 #!/usr/bin/pyhon3
 """
-Parent class that will inherit
+Parent class that be  will inherited
 """
 import uuid
 from datetime import datetime
